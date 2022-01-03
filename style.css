@@ -31,7 +31,7 @@ html {
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
-    color: #471aaa;
+    color: #310e79;
 }
 .nav-link:hover {
     text-decoration: underline;
@@ -66,3 +66,19 @@ html {
 .section-item a:hover {
     text-decoration: underline;
   }
+.rss-logo {
+    width: 100px;
+}
+.footer {
+    background-color: #2078b3;
+    padding: 15px;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header {
+    background-color: #2078b3;
+    margin-bottom: 20px;
+}
